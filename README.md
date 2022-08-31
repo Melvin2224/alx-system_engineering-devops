@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Devops project
+This repo contains solutions to the shell basics task of my alx SE programme.
