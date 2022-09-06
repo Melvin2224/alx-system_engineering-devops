@@ -1,1 +1,1 @@
-This repo contains solutions to the shell basics task of my alx SE programme.
+This repo contains solutions tasks from my alx SE programme.
